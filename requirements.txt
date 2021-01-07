@@ -25,7 +25,7 @@ httplib2==0.8
 ipython==1.2.1
 lockfile==0.8
 logilab-common==0.61.0
-lxml==3.3.3
+lxml==4.6.2
 mysql-connector-python==2.0.4
 oauthlib==0.6.1
 oneconf==0.3.7.14.04.1
